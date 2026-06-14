@@ -1,18 +1,75 @@
-# KIO
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# kio
 
-Network transparent access to files and data
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/kio)
 
-## Introduction
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-This framework implements almost all the file management functions you
-will ever need. In fact, the KDE file manager (Dolphin) and the KDE
-file dialog also uses this to provide its network-enabled file management.
+## Architecture
 
-It supports accessing files locally as well as via HTTP and FTP out of the
-box and can be extended by plugins to support other protocols as well. There
-is a variety of plugins available, e.g. to support access via SSH.
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-The framework can also be used to bridge a native protocol to a file-based
-interface. This makes the data accessible in all applications using the KDE
-file dialog or any other KIO enabled infrastructure.
+## Install
 
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/kio.git
+cd kio
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/kio`](https://github.com/Interested-Deving-1896/kio) and mirrored through:
+
+```
+Interested-Deving-1896/kio  ──►  OpenOS-Project-OSP/kio  ──►  OpenOS-Project-Ecosystem-OOC/kio
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
